@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 07:24:01 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1498692241759
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:pom\:2.1.14 from/to central (https\://repo.maven.apache.org/maven2)\: No connector factories available

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 28 21:56:58 CST 2019
+heima_ssm_web-1.0-SNAPSHOT.pom>=
+heima_ssm_web-1.0-SNAPSHOT.war>=
+heima_ssm_web-1.0-SNAPSHOT.jar>=

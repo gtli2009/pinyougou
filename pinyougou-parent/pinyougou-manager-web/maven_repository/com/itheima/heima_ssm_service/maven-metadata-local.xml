@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<groupId>com.itheima</groupId>
+	<artifactId>heima_ssm_service</artifactId>
+	<versioning>
+		<versions>
+			<version>1.0-SNAPSHOT</version>
+		</versions>
+		<lastUpdated>20190228135624</lastUpdated>
+	</versioning>
+</metadata>

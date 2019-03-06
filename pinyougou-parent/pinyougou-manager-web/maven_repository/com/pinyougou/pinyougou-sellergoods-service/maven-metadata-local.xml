@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<groupId>com.pinyougou</groupId>
+	<artifactId>pinyougou-sellergoods-service</artifactId>
+	<versioning>
+		<versions>
+			<version>0.0.1-SNAPSHOT</version>
+		</versions>
+		<lastUpdated>20190228112106</lastUpdated>
+	</versioning>
+</metadata>

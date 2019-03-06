@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 13 14:35:20 CST 2018
+@default-nexus-http\://192.168.8.132\:8081/nexus/content/groups/public/.lastUpdated=1531463710680
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1531463720729
+http\://192.168.8.132\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:11.2.0.1.0 from/to nexus (http\://192.168.8.132\:8081/nexus/content/groups/public/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:11.2.0.1.0 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

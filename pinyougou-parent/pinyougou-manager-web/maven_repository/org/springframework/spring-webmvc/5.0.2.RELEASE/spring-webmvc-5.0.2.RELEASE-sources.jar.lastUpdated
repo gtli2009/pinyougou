@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 28 10:47:14 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1524883634628
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:sources\:5.0.2.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

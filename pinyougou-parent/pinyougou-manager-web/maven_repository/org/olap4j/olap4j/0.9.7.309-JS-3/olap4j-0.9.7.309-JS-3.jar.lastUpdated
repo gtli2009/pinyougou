@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 04 13:22:08 CST 2017
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.lastUpdated=1499145728135
+http\://jasperreports.sourceforge.net/maven2/.error=Could not transfer artifact org.olap4j\:olap4j\:jar\:0.9.7.309-JS-3 from/to jasperreports (http\://jasperreports.sourceforge.net/maven2)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1499145716662
+@default-jasperreports-http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1499145726666
+https\://repo.maven.apache.org/maven2/.error=

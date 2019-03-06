@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="ie6 oldie" lang="zh"><![endif]-->
+<!--[if IE 7]><html class="ie7 oldie" lang="zh"><![endif]-->
+<!--[if IE 8]><html class="ie8 oldie" lang="zh"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="zh"> <!--<![endif]-->
+<head>
+  <meta http-equiv="X-UA-Compatible" content="edge">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>302</title>
+  <script type="text/javascript">
+    if (window.self === window.top) {
+      location.href = 'http://api.miwifi.com/rr/e.html?d=BERp6EAmPq1eOg1tDarjVVScDsoA5BiMJv6nQSu31AhL4AkPJiC6TlnfoiHPmIQnl6O8cg3X4r7lg7MTKVmmttxiS1YuDdVuwwvvEVxA1TLBYJ84yrUlaggNBbHeqrrWiCNKjwqK%2BLS06kIVR4BKFZ%2BM2AhZgjJPH9CpLEKqemvWHqxQqNMqB6om%2BZ3ahh5j5uhOQWKiBkaKShVXtMFgte0NqaInME%2B8f0o7zIjqfWLlEYFDpA5bpSKyH2AwOWMIVN6ScwFdfMkyNaa6vBG0z%2FjTCG%2Bs3MPu53uus%2FZNPSsJ8I2hn3Z3lYslLyOZrT4gjuOY45SRhkv0vukbLkN7iRhO8Dil2dD8pSYA14GqKNNQ8LwpVsfaLfbNXy6fAxKwBsXPdkOioV2QlhM%2BWcvQNW6JjwOGlMMr4LYnxxFmDUFQ9g5uRpk2OxwsD155oSI8jHl6U2QFpIZD8SFMXJjdGSCoMlXRZO2N0ZT%2BSrSDSboog1Zz41YwSL80l1ucAecLsRzkWQxn1veE%2BLvoaq4eaEWO5E8kbQ%3D%3D&etype=2#url=' + encodeURIComponent(document.URL);
+    } else {
+      document.write('404 Not Found');
+    }
+  </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 12 16:07:03 CST 2019
+plexus-classworlds-2.5.2-sources.jar>central=
+plexus-classworlds-2.5.2.jar>central=
+plexus-classworlds-2.5.2.pom>central=

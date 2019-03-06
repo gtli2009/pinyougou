@@ -1,0 +1,14 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>javamail</groupId>
+	<artifactId>mail</artifactId>
+	<version>1.3.2</version>
+
+	<distributionManagement>
+		<relocation>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+		</relocation>
+	</distributionManagement>
+
+</project>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- icensed to the Apache Software Foundation (ASF) under one   more contributor 
+
+		license agreements See the NOTICE file istributed with this work for additional 
+	
+	informati  regarding copyright ownership The ASF licenses this file o 
+	
+	you under the Apache License, Version 2.0 (t  "License"); you may not use
+	 
+	this file except in compli ce with the Licen . You may obtain a copy o
+	f 
+	the Licen tp://www.apache.org/licenses/LICENSE-2.0 U s required 
+	by
+	 applicable law or agreed to in writing, s tware distributed under the 
+	
+	License is distributed on an AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS 
+	
+	OF A  KIND, either express or implied See the License for the pecific 
+	
+	language governing permissions and limitatio  under the License -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd
+		<parent
+		artifactId>maven</artifactId>
+		oupId>org.apache.maven</groupId>
+	
+		ion>2.0.9</version>
+	</
+	nt>
+	<mo
+	ersion>4.0.0</modelVersion>
+	<art
+	tId>maven-artifact-manager</artifactId>
+	<name
+	en Artifact Manager</name>
+	<depen
+	ies>
+		<depen
+		
+			<groupI
+			ache.maven</groupId>
+			<art
+			maven-repository-metadata</ar<artifactId></artifactId>tifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.maven.wagon</groupId>
+			<artifactId>wagon-file</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.plexus</groupId>
+			<artifactId>plexus-utils</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.maven</groupId>
+			<artifactId>maven-artifact</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.plexus</groupId>
+			<artifactId>plexus-container-default</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.maven.wagon</groupId>
+			<artifactId>wagon-provider-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>easymock</groupId>
+			<artifactId>easymock</artifactId>
+			<version>1.2_Java1.3</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	<build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<configuration>
+						<excludes>
+							<exclude>**/testutils/**</exclude>
+						</excludes>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+</project>

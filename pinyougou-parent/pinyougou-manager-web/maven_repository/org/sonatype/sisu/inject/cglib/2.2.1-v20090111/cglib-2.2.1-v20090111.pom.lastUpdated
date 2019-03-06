@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 07:24:01 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1498692241903
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.sonatype.sisu.inject\:cglib\:pom\:2.2.1-v20090111 from/to central (https\://repo.maven.apache.org/maven2)\: No connector factories available

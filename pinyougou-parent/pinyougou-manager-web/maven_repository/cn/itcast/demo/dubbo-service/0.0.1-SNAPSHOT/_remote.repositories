@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 01 16:24:13 CST 2019
+dubbo-service-0.0.1-SNAPSHOT.pom>=
+dubbo-service-0.0.1-SNAPSHOT.war>=
+dubbo-service-0.0.1-SNAPSHOT.jar>=

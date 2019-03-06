@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 27 18:57:43 CST 2019
+dubbo-2.8.4.pom>=
+dubbo-2.8.4.jar>=
