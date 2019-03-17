@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.Page;
@@ -20,7 +21,8 @@ import entity.PageResult;
  * @author Administrator
  *
  */
-@Service
+@Service(timeout = 10000)
+@Transactional
 public class BrandServiceImpl implements BrandService {
 
 	@Autowired
