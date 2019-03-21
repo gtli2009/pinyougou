@@ -273,12 +273,10 @@ public class GoodsServiceImpl implements GoodsService {
     @Override
     public List<TbItem> findItemListByGoodsIdandStatus(Long[] goodsIds, String status) {
 
-        TbItemExample example = new TbItemExample();
-        TbItemExample.Criteria criteria = example.createCriteria();
-        //商品审核状态
-        criteria.andStatusEqualTo(status);
-        //添加商品id
-        criteria.andGoodsIdIn(Arrays.asList(goodsIds));
+        TbItemExample example=new TbItemExample();
+        com.pinyougou.pojo.TbItemExample.Criteria criteria = example.createCriteria();
+        criteria.andStatusEqualTo(status);//状态
+        criteria.andGoodsIdIn( Arrays.asList(goodsIds));//指定条件：SPUID集合
 
         return itemMapper.selectByExample(example);
     }

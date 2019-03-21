@@ -283,10 +283,15 @@
 		<module>pinyougou-manager-web</module>
 		<module>pinyougou-shop-web</module>
 		<module>pinyougou-content-interface</module>
-		<module>pinyougou-content-seervice</module>
+		<module>pinyougou-content-service</module>
 		<module>pinyougou-portal-web</module>
 		<module>pinyougou-solr-util</module>
 		<module>pinyougou-search-interface</module>
 		<module>pinyougou-search-service</module>
-	</modules>
+		<module>pinyougou-page-service</module>
+        <module>pinyougou-page-web</module>
+        <module>pinyougou-user-interface</module>
+        <module>pinyouogu-user-service</module>
+        <module>pinyougou-user-web</module>
+    </modules>
 </project>
