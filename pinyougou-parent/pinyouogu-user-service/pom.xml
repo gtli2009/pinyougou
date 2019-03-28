@@ -12,10 +12,6 @@
     <groupId>com.pinyougou</groupId>
     <artifactId>pinyougou-user-service</artifactId>
     <packaging>war</packaging>
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
-
     <dependencies>
 
         <!-- Spring -->
